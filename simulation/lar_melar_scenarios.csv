@@ -1,0 +1,10 @@
+scenario_id,u_distribution,distortion,n,rho_true,tau2
+L01,Uniform,Linear,40,0.5,0.10
+L02,Normal,Quadratic,40,0.5,0.20
+L03,Beta,Periodic,40,0.6,0.20
+L04,Uniform,Linear,80,0.5,0.10
+L05,Normal,Quadratic,80,0.5,0.20
+L06,Beta,Periodic,80,0.6,0.20
+L07,Uniform,Linear,160,0.5,0.10
+L08,Normal,Quadratic,160,0.5,0.20
+L09,Beta,Periodic,160,0.6,0.20
